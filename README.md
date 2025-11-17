@@ -66,3 +66,43 @@ Cakely/
 ├── README.md _ Project documentation
 └── footer.png _ Brand assets
 
+
+## 💾 Data Storage
+
+All data is stored locally in your browser using localStorage. Your bakery data persists between sessions but is specific to the browser and device.
+
+## 🎯 Usage Guide
+
+### Adding a New Cake
+1. Navigate to "Cake Menu" section
+2. Click "Add New Cake" button
+3. Fill in cake details (name, description, price, category)
+4. Save to add to your menu
+
+### Creating an Order
+1. Go to "Orders" section
+2. Click "Create Order" button
+3. Select customer and cake
+4. Set dates and status
+5. Save to track the order
+
+### Managing Inventory
+1. Access "Inventory" section
+2. View current stock levels
+3. Add new inventory items
+4. Update stock quantities as needed
+
+## 🤝 Contributing
+
+This is an educational project for web development coursework. Feel free to fork and enhance for learning purposes.
+
+## 📄 License
+
+This project is created for educational purposes as part of academic coursework.
+
+---
+
+**Developed with ❤️ for professional bakery management**
+
+*Sweet management solutions for sweet businesses!* 🎂
+
