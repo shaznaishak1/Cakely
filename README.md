@@ -7,7 +7,7 @@ A comprehensive web-based management system for bakeries and cake shops to handl
 ![Cakely Banner](footer.png)
 
 Live Demo
-Visit the live website:[https://shaznaishak1.github.io/Cakely/](https://shaznaishak1.github.io/Cakely/)
+Visit the live website:https://shaznaishak1.github.io/Cakely/?authuser=0
 
 Features
 
